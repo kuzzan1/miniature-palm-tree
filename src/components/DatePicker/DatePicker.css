@@ -1,0 +1,13 @@
+ .dateContainer{
+   margin: 0px;
+   padding: 0px;
+   list-style: none;
+   text-align: center;
+   font-family: Titillium;
+   font-size: 12pt;
+}
+
+.dates {
+  margin-top: 20px;
+  overflow: hidden;
+}

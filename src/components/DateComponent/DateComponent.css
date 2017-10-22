@@ -1,0 +1,23 @@
+.fixtureLink {
+  display: inline-block;
+  padding: 9px;
+  position: relative;
+  background: #21b799;
+  cursor: pointer;
+  color: white;
+  opacity: 1;
+  margin-right: 5px;
+  width: 10%;
+  text-decoration: none;
+}
+.day {
+  display: block;
+  font-family: RobotoSlab;
+  font-size: 16pt;
+}
+
+.sm {
+  font-size: 7pt;
+  font-family: Titillium;
+  display: block;
+}

@@ -1,0 +1,56 @@
+.tr{
+    background-color: #f9f9f9;
+}
+
+.td {
+  font-size: 0.95;
+  font-family: Titillium;
+  border: 1px solid #e4e4e4;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding: 8px;
+  line-height: 1.42857143;
+  vertical-align: top;
+  border-top: 1px solid #ddd
+}
+
+.textGreen {
+    color: #8FAB46;
+    width:10%;
+}
+
+.textRight {
+  width:30%;
+  text-align: right;
+}
+
+.textLeft {
+  width:30%;
+  text-align: left;
+}
+.time {
+  width: 10%;
+}
+
+
+i {
+  animation: blink-animation 1s steps(5, start) infinite;
+  -webkit-animation: blink-animation 1s steps(5, start) infinite;
+}
+.score {
+  width: 10%;
+  font-family: RobotoSlab;
+  font-weight: bold;
+  color: #8FAB46;
+}
+
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}

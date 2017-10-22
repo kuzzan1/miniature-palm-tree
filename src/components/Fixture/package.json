@@ -1,0 +1,6 @@
+{
+  "name": "Fixture",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Fixture.js"
+}

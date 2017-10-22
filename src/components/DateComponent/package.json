@@ -1,0 +1,6 @@
+{
+  "name": "DateComponent",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DateComponent.js"
+}

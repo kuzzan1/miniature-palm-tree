@@ -1,0 +1,22 @@
+.panel {
+    border: 0px;
+    margin-bottom: 0px;
+}
+
+.panelHeading {
+    background-color: #21b799;
+    color: white;
+    font-family: Titillium-Bold;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+  }
+.panelBody {
+    padding: 0px;
+}
+.leagueLink {
+  color: white;
+  text-decoration: none;
+}
